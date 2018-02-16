@@ -1,0 +1,109 @@
+	.A {
+		float:center;
+		height: 500px;
+		width: 400px;
+
+
+	}
+
+
+	.inside {
+		position: absolute; 
+		top:10px;
+	  	left: 600px; 
+	  	bottom: 300px;
+	  	right: 500px; 
+	  	height: 600px;
+	  	width: 550px;
+        border: 1px solid black;
+
+
+	}
+
+	.title {
+
+		position: absolute;
+	  	top: 50px;
+	  	left: 750px;
+	  	bottom: 300px;
+	  	right: 700px;
+	  	height: 50px;
+	  	width: 50px;
+
+
+	}
+
+	.form {
+		position: absolute;
+	  	top: 150px;
+	  	left: 650px;
+	  	bottom: 300px;
+	  	right: 700px;
+	  	border: 1px solid black;
+	  	height: 50px;
+	  	width: 400px;
+	}
+
+	.form2 {
+		position: absolute;
+	  	top: 250px;
+	  	left: 650px;
+	  	bottom: 300px;
+	  	right: 700px;
+	  	border: 1px solid black;
+	  	height: 50px;
+	  	width: 400px;
+
+	}
+
+
+	.form3 {
+		position: absolute;
+	  	top: 350px;
+	  	left: 650px;
+	  	bottom: 300px;
+	  	right: 700px;
+	  	border: 1px solid black;
+	  	height: 50px;
+	  	width: 400px;
+
+	}
+
+
+	.form4 {
+		position: absolute;
+	  	top: 450px;
+	  	left: 650px;
+	  	bottom: 300px;
+	  	right: 700px;
+	  	border: 1px solid black;
+	  	height: 50px;
+	  	width: 400px;
+
+	}
+	.bleft {
+
+		position: absolute;
+	  	top: 550px;
+	  	left: 600px;
+	  	bottom: 300px;
+	  	right: 700px;
+	  	height: 50px;
+	  	width: 150px;
+
+	}
+
+	.bright {
+		position: absolute;
+	  	top: 550px;
+	  	left: 900px;
+	  	bottom: 300px;
+	  	right: 800px;
+	  	height: 50px;
+	  	width: 150px;
+
+
+	}
+
+
+
